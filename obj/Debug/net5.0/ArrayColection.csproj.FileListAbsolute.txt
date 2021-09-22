@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\bin\Debug\net5.0\ArrayColection.exe
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\bin\Debug\net5.0\ArrayColection.deps.json
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\bin\Debug\net5.0\ArrayColection.runtimeconfig.json
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\bin\Debug\net5.0\ArrayColection.runtimeconfig.dev.json
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\bin\Debug\net5.0\ArrayColection.dll
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\bin\Debug\net5.0\ref\ArrayColection.dll
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\bin\Debug\net5.0\ArrayColection.pdb
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\obj\Debug\net5.0\ArrayColection.csproj.AssemblyReference.cache
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\obj\Debug\net5.0\ArrayColection.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\obj\Debug\net5.0\ArrayColection.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\obj\Debug\net5.0\ArrayColection.AssemblyInfo.cs
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\obj\Debug\net5.0\ArrayColection.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\obj\Debug\net5.0\ArrayColection.dll
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\obj\Debug\net5.0\ref\ArrayColection.dll
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\obj\Debug\net5.0\ArrayColection.pdb
+C:\projetos\ams\1ano\semestre2\EstruturasRepeticao\ForEachCommand\ArrayColection\obj\Debug\net5.0\ArrayColection.genruntimeconfig.cache
