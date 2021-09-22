@@ -13,11 +13,8 @@ namespace ArrayColection
                 "Bruno",
                 "Sofia" };
 
-            Console.WriteLine("-------------");
 
             Console.WriteLine(alunosAMS[3]);
-
-            Console.WriteLine("-------------");
 
             alunosAMS[3] = "Antonio Junior";
 
@@ -27,7 +24,7 @@ namespace ArrayColection
 
             Console.WriteLine("");
 
-            Console.WriteLine("---FOREACH---");
+            Console.WriteLine("ForEach");
 
             Console.WriteLine("");
 
@@ -35,10 +32,9 @@ namespace ArrayColection
             {
                 Console.WriteLine(aluno);
             }
-
             Console.WriteLine("");
 
-            Console.WriteLine("-----FOR-----");
+            Console.WriteLine("For");
 
             Console.WriteLine("");
 

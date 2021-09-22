@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\ams\\1ano\\semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\ArrayColection.csproj": {}
+    "C:\\Projetos\\AMS\\1ano\\Semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\ArrayColection.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\ams\\1ano\\semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\ArrayColection.csproj": {
+    "C:\\Projetos\\AMS\\1ano\\Semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\ArrayColection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\ams\\1ano\\semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\ArrayColection.csproj",
+        "projectUniqueName": "C:\\Projetos\\AMS\\1ano\\Semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\ArrayColection.csproj",
         "projectName": "ArrayColection",
-        "projectPath": "C:\\projetos\\ams\\1ano\\semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\ArrayColection.csproj",
+        "projectPath": "C:\\Projetos\\AMS\\1ano\\Semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\ArrayColection.csproj",
         "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\ams\\1ano\\semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\obj\\",
+        "outputPath": "C:\\Projetos\\AMS\\1ano\\Semestre2\\EstruturasRepeticao\\ForEachCommand\\ArrayColection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config"
